@@ -24,3 +24,4 @@ Madisson Azucena Luna Bárcenas: [avance 1](https://github.com/madisson-luna/Pro
 
 Guillermo Huerta Ramos: [avance 1](https://github.com/ghuertaramos/ProyectoFinalBioinf2017-II/blob/master/Avance1%20.md)
 
+Ofelia Abigail Jiménez Barrón [avance 1](https://github.com/Ofeabi/ProyectoFinalBioinf2017-II/blob/master/Avance%201.md)
