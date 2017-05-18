@@ -1,0 +1,27 @@
+
+
+
+¡¡¡README!!!
+
+El contenido de la carpeta "SingleCopyNuclearGen" esta organizado de la siguiente manera: 
+
+Archivo llamado "SingleCopyGen.md" que contiene la explicación de los análisis y resultados del proyecto
+
+Carpeta "bin" contiene los Scripts de instalación y análisis
+      1. Instalación del software MarkerMiner
+      2. 
+
+
+Carpeta "data" archivos input empleados en análisis
+      1. Archivos fasta de A.tequilana (Ateq.fa) y A. deserti (Ades.fa)
+
+
+Carpeta "results" archivos output obtenidos de los análisis 
+      1. Tabla de resultados - Dos archivos txt los cuales contienen el listado de genes de copia unica y un listado de los transcritos        
+         de los genes nucleares de copia única
+      2. MarkerMiner run log file - un archivo txt que contiene la version de MarkerMiner que se corrio
+      3. input_transcriptomes.txt - Archivo txt en donde se encuentran los paths del ensamble de transcriptoma empleados
+      4. BLAST results - archivo fasta de los BLAST y filtrado realizado
+      5. Sequence aligments - Archivo PHYLIP y FASTA de los alineamientos de genes nucleares de copia unica  
+      6. Profile aligment with reference - alineamientos con las referencias empleadas
+
