@@ -29,7 +29,7 @@ la covertura que se usara, si se realizara una busqueda "Strictly" o "Mostly" y 
 
 6. El proyecto ya se encuentra organizado por carpetas, se ha avanzado en el resumen markdown, se ha avanzado en los srcipts (en el cual se incluira el de 
 instalacion del programa debido a que a pesar de ser muy destalladas las instrucciones se tuvieron que realizar unos cambios para algunas de las paqueterias) y 
-ha avanzado en el [README](). 
+ha avanzado en el [README](https://github.com/Ofeabi/ProyectoFinalBioinf2017-II/blob/master/Avance3README). 
 
 FALTA POR HACER
 
