@@ -6,12 +6,11 @@ Archivo llamado "SingleCopyGen.md" que contiene la explicación de los análisis
 
 Carpeta "bin" contiene los Scripts de instalación y análisis
       1. Instalación del software MarkerMiner
-      2. 
-
+      2. linea de comando para encontrar genes nucleares de copia unica con opciones default
+      3. linea de comando con modificación de opciones y parámetros
 
 Carpeta "data" archivos input empleados en análisis
       1. Archivos fasta de A.tequilana (Ateq.fa) y A. deserti (Ades.fa)
-
 
 Carpeta "results" archivos output obtenidos de los análisis 
       1. Tabla de resultados - Dos archivos txt los cuales contienen el listado de genes de copia unica y un listado de los transcritos        
@@ -21,4 +20,5 @@ Carpeta "results" archivos output obtenidos de los análisis
       4. BLAST results - archivo fasta de los BLAST y filtrado realizado
       5. Sequence aligments - Archivo PHYLIP y FASTA de los alineamientos de genes nucleares de copia unica  
       6. Profile aligment with reference - alineamientos con las referencias empleadas
-
+      7. gráficas - gráficas realizadas en Rstudio o ggplot de los geness encontradados y una comparacion entre los parametros
+         default y los modificados 
