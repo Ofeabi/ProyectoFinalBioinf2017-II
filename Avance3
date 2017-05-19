@@ -23,5 +23,5 @@ Carpeta "results" archivos output obtenidos de los análisis
       3. input_transcriptomes.txt - Archivo txt en donde se encuentran los paths del ensamble de transcriptoma empleados
       4. BLAST results - archivo fasta de los BLAST y filtrado realizado
       5. Sequence aligments - Archivo PHYLIP y FASTA de los alineamientos de genes nucleares de copia unica  
-      6. Profile aligment with reference - alineamientos con las referencias empleadas
+      6. Profile aligment with reference - alineamientos con las referencias empleadas.
 
