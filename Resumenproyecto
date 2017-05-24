@@ -1,0 +1,20 @@
+**Nuclear single-copy genes identification in transcriptome of A. tequila and A. deserti for Phylogenetics analises**
+
+En filogenética uno de los mayores problemas es la obtención de secuencias con suficiente variación para una correcta delimiación de los clados y así establecer diferentes categorias taxonómicas. 
+Existen grupos de reciente diversificación y/o con eventos de especiación los cuales debido al poco tiempo que han tenido para diferenciarse genéticamente, los marcadores universales no aportan suficiente variación 
+y por ende muy baja resolución a la filogenia del grupo. Agave s.l es un ejemplo de este caso, el grupo divirgió hace 10 m.a y presenta dos momentos de especiación uno hace 8 m.a relacionado con la adaptación 
+y colonizacion a los medios áridos y el segundo hace 3 m.a relacionado con los sindromes de polinización (Good-Avila et al., 2006). Estos recientes eventos hacen que la variacion presente en los marcadores universales
+de cloroplasto y nucleares sea insuficiente para conocer la historia evolutiva del género Agave s.l. 
+
+Los genes nucleares de copia unica son más variables, presentan una mayor cantidad de caracteres parsimoniosamente informativos y presentan información biparental, en comparación con los marcadores de cloroplasto. 
+Cuando los genes nucleares presentan una baja cantidad de copias se convierten en un recurso valioso para la identificación de loci ortologos, es decir aquellos loci homologos que derivan a partir de un evento de especiación, 
+los cuales pueden ser útiles en el desarrollo de estudios filogenómicos (Granados-Mendoza et al., 2015). Por ello el objetivo del presente trabajo es la identificación de genes nucleares con altos valores de variación que nos 
+permitan una mayor resolución filogenética.
+
+
+**Identificación de genes de copia unica empleando el método de Smet et al., (2013)** 
+
+
+Se emplean input transcriptomas en formato fasa de A. tequilana y A.deserti obtenidos del trabajo de Gross et al., (2013) para compararlo con la base de datos de 17 genomas de angiospermas entre ellos 7 Amarillydaceae relacionadas con los Agaves. Las referencias de la base de datos son grupos de ortologos de PLAZA 2.5 (Van Bel et al., 2011) y el método OrthoMCL (Li et al., 2013).    
+
+Para la identificación de genes nucleares que aporten resolución a la filogenia del género Agave s.l se emplearon los transcriptomas de A. deserti y A. tequilana disponibles en la base de datos de NCBI. Se realizó una busqueda por las bases de datos sin embargo, no existe ningún genoma ensamblado disponible para alguna de las especies de Agave mientras que genomas solo se encontraron dos uno de la especies A. deserti y A. tequilana, una de las más conocidas debido a la explotación comercial. Por lo cual se descargarón las secuencias de transcriptoma de A. tequilana y A. deserti de la base de datos de Dryad en un archivo fasta. Inicialmente se penso en utilizar el software BUSCO, el cual provee medidas de la calidad del ensamble de genomas, transcriptomas y grupos de genes basado en información evolutiva contenida en genes ortologos universales de copia unica de una base de datos llamada OrthoDB. Sin embargo, emplear esta técnica presenta el inconveniente de que al ser genes ortologos universales no presenten suficiente variación en la resolucion de la filogenia, lo cual es el objetivo del presente trabajo. Por lo cual se prosiguio con la busqueda de un software que se empleará en busqueda de genes ortologos en general y no solo empleando los universales. Se encontró el software MarkerMiner 1.0 el cual menciona que su principal aplicacion la identificación de loci nucleares de copia unica en angiospermas, permite la identificacion de 1993 loci nucleares de copia unica a partir de datos de transcriptoma mediante cuatro diferentes análisis. Menciona que es una herramienta fácil y eficiente en el descubrimiento de loci nucleares de copia unica potenciales para analisis filogenticos. Se puede correr via local o web y el archivo output es una tabla y alineamiento de los locus seleccionados, los limites entre intrones y exones y los primers desarrollados.          
