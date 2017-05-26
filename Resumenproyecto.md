@@ -12,17 +12,20 @@ La identificación de genes nucleares que aporten resolución a la filogenia del
 La busqueda de genes ortológos se realizó en el software Markerminer v. 1.2 (Chamala et al., 2015) mediante instrucciones en linea de comando. Se emplearón los valores establecidos por default y se seleccionó a la especie Arabidopsis Thaliana como modelo. Una vez terminado el análisis de los transcriptomas a partir del output que contenia la información de los genes nucleares encontrados se realizó una gráfica empleando ggplot2 en Rstudio con la finalidad de realizar una comparación en el número de ortológos encontrados en cada gen.
 
 **Results** 
+
 A partir de los transcriptomas de A. deserti y A.tequilana se obtuvieron un total de 13 genes nucleares de los cuales  12 se encuentran en la categoria de "Mostly" y solo uno en la categoria "Stricly" por otra parte se analizaron los genes encontrados evaluando el número de ortólogos presentes en cada uno de los genes (fig.1) con la finalidad de seleccionar aquellos genes que son de copia unica y que tienen el mayor número de ortólogos. La mayor parte de los genes corresponden a la familia de las cinasas mientras que el único gen con la categoria de "Stricly" pertenece a la familia de proteinas de las Pentatricopeptide y se localiza en la mitocondria.
 
 ![Genes Ortólogos](https://github.com/Ofeabi/ProyectoFinalBioinf2017-II/blob/master/GraphSCNG.png "Genes Ortológos")
 
+**Analysis and Conclusion** 
 
+En la actualidad existen diversos métodos para la detección de genes que nos aportan mayor resolución en las filogenias. Sin embago, la tecnología y  métodos cambian continuamente y cada investigador debe seleccionar el mejor método con base en su criterio. En el caso de Markerminer es un software que a pesar de haber sido generado en el 2015 aun no cuenta con suficiente difusión por lo que los trabajos en los que se ha empleado son escasos. Aunque, cuenta con una amplia guía para la instalación y generación de la linea de comando para correrlo así como direcciones de correo electrónico en las cuales mantienen la disposición para orientar a los usuarios. Además, cuentan con un reposositorio en donde se explica detalladamente la manera en que funciona Markerminer para la detección de genes ortólogos de copia unica. Los output que genera son muy claros y se generan en formatos que son compatibles para muchos otros softwares como txt, fasta o phy. 
 
+En cuanto a la información que se genera puede funcionar como un primer aproximamiento en la detección de genes que pueden aportar resolución al género _Agave_. Sin embargo, las bases de datos que a partir de las cuales se genera la comparación y busqueda es pequeña. Es probable que al agregar una mayor cantidad de transcriptomas en el análisis aporte una mayor cantidad de genes específicos para los Agaves. También, es necesario realizar pruebas con los valores de similitud de las proteínas, longitud minima de los transcritos, modelo de referencia y el porcentaje minimo de cobertura del transcrito se pueden realizar filtros más o menos estrictos con la finalidad de encontrar genes que aporten mayor resolución.         
 
+**Conclusión con respecto a la materia** 
 
-**Analises and Conclusion** 
-
-
+A pesar de haber tenedo muchas dificultades con la instalación mediante la línea de comando y tener que googlear miles de dudas  debo admitir que la materia me ayudo bastante ya que al iniciar el curso no tenia la más minima idea de como hacer las cosas o que googlear para aprender a hacerlo. Me siento santisfecha con lo que he avanzado pues pase de pensar que nunca podría hacer una gráfica o plottear un mapa para mi artículo a pensar que puedo hacerlo y que tengo las bases para realizar una busqueda en foros, vigenetts, manuales o diversos materiales que me permitirán realizarlo. La bioinformática es una constante tarea de pensar en lo que quieres, como realizarlo, buscar, preguntar, googlear, intentarlo, frustrarte, volver a intentar y lograrlo.     
 
 
 **Literature** 
