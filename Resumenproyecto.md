@@ -12,6 +12,12 @@ La identificación de genes nucleares que aporten resolución a la filogenia del
 La busqueda de genes ortológos se realizó en el software Markerminer v. 1.2 (Chamala et al., 2015) mediante instrucciones en linea de comando. Se emplearón los valores establecidos por default y se seleccionó a la especie Arabidopsis Thaliana como modelo. Una vez terminado el análisis de los transcriptomas a partir del output que contenia la información de los genes nucleares encontrados se realizó una gráfica empleando ggplot2 en Rstudio con la finalidad de realizar una comparación en el número de ortológos encontrados en cada gen.
 
 **Results** 
+A partir de los transcriptomas de A. deserti y A.tequilana se obtuvieron un total de 13 genes nucleares de los cuales  12 se encuentran en la categoria de "Mostly" y solo uno en la categoria "Stricly" por otra parte se analizaron los genes encontrados evaluando el número de ortólogos presentes en cada uno de los genes (fig.1) con la finalidad de seleccionar aquellos genes que son de copia unica y que tienen el mayor número de ortólogos. La mayor parte de los genes corresponden a la familia de las cinasas mientras que el único gen con la categoria de "Stricly" pertenece a la familia de proteinas de las Pentatricopeptide y se localiza en la mitocondria.
+
+
+
+**Analises and Conclusion** 
+
 
 
 
