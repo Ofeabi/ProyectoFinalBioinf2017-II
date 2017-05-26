@@ -19,3 +19,7 @@ De Smet, R., K.L. Adams, K. Vandepoele, M.C.E. Van Montagu, S. Maere, and Y. Van
 Van Bel, M., S. Proost, E. Wischnitzki, S. Movahedi, C. Scheerlinck, Y. Van de Peer, and K. Vandepoele. 2011. Dissecting plant genomes with the PLAZA comparative genomics platform. Plant Physiology, pp–111.
 
 Li, L., C.J. Stoeckert, and D.S. Roos. 2003. OrthoMCL: identification of ortholog groups for eukaryotic genomes. Genome research 13: 2178–2189.
+
+Mendoza, C. G., Naumann, J., Samain, M. S., Goetghebeur, P., De Smet, Y., & Wanke, S. (2015). A genome-scale mining strategy for recovering novel rapidly-evolving nuclear single-copy genes for addressing shallow-scale phylogenetics in Hydrangea. BMC evolutionary biology, 15(1), 132.
+
+Gross, S. M., Martin, J. A., Simpson, J., Abraham-Juarez, M. J., Wang, Z., & Visel, A. (2013). De novo transcriptome assembly of drought tolerant CAM plants, Agave deserti and Agave tequilana. BMC genomics, 14(1), 563.
