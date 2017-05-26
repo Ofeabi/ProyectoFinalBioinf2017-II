@@ -9,7 +9,9 @@ Los SCNG son más variables, presentan una mayor cantidad de caracteres parsimon
 
 La identificación de genes nucleares que aporten resolución a la filogenia del género Agave s.l se realizó por el método de Smet en el cual se realiza una comparacion de un transcriptoma con una base de datos de genes ortológos y se clasifica en "Strictly" cuando solo existe una copia en todas las especies comparadas o "Mostly" cuando existe una duplicación en una o más de las especies comparadas. Para los análisis se descargaron los transcriptomas de dos especies de Agave de la base de datos de Dryad. Las especies fueron Agave deserti y Agave tequila, se realizó una busqueda sin emnargo, no existe ningun genoma publicado de Agave y solo existen dos transcriptomas. Una vez descargados los transcriptomas se procedio a hacer las correcciones pertinentes para generar los input para el análisis. 
 
-La busqueda de genes ortologos se realizó en el software Markerminer v. 1.2 (
+La busqueda de genes ortológos se realizó en el software Markerminer v. 1.2 (Chamala et al., 2015) mediante instrucciones en linea de comando. Se emplearón los valores establecidos por default y se seleccionó a la especie Arabidopsis Thaliana como modelo. Una vez terminado el análisis de los transcriptomas a partir del output que contenia la información de los genes nucleares encontrados se realizó una gráfica empleando ggplot2 en Rstudio con la finalidad de realizar una comparación en el número de ortológos encontrados en cada gen.
+
+**Results** 
 
 
 
