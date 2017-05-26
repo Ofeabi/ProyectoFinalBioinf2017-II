@@ -6,6 +6,7 @@ Los SCNG son más variables, presentan una mayor cantidad de caracteres parsimon
 
 
 **Métodos** 
+
 La identificación de genes nucleares que aporten resolución a la filogenia del género Agave s.l se realizó por el método de Smet en el cual se realiza una comparacion de un transcriptoma con una base de datos de genes ortológos y se clasifica en "Strictly" cuando solo existe una copia en todas las especies comparadas o "Mostly" cuando existe una duplicación en una o más de las especies comparadas. Para los análisis se descargaron los transcriptomas de dos especies de Agave de la base de datos de Dryad. Las especies fueron Agave deserti y Agave tequila, se realizó una busqueda sin emnargo, no existe ningun genoma publicado de Agave y solo existen dos transcriptomas. Una vez descargados los transcriptomas se procedio a hacer las correcciones pertinentes para generar los input para el análisis. 
 
 La busqueda de genes ortologos se realizó en el software Markerminer v. 1.2 (
@@ -14,5 +15,7 @@ La busqueda de genes ortologos se realizó en el software Markerminer v. 1.2 (
 
 
 De Smet, R., K.L. Adams, K. Vandepoele, M.C.E. Van Montagu, S. Maere, and Y. Van de Peer. 2013. Convergent gene loss following gene and genome duplications creates single-copy families in flowering plants. Proceedings of the National Academy of Sciences 110: 2898–2903.
+
 Van Bel, M., S. Proost, E. Wischnitzki, S. Movahedi, C. Scheerlinck, Y. Van de Peer, and K. Vandepoele. 2011. Dissecting plant genomes with the PLAZA comparative genomics platform. Plant Physiology, pp–111.
+
 Li, L., C.J. Stoeckert, and D.S. Roos. 2003. OrthoMCL: identification of ortholog groups for eukaryotic genomes. Genome research 13: 2178–2189.
