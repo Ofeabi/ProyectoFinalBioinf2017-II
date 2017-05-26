@@ -14,6 +14,10 @@ La busqueda de genes ortológos se realizó en el software Markerminer v. 1.2 (C
 **Results** 
 A partir de los transcriptomas de A. deserti y A.tequilana se obtuvieron un total de 13 genes nucleares de los cuales  12 se encuentran en la categoria de "Mostly" y solo uno en la categoria "Stricly" por otra parte se analizaron los genes encontrados evaluando el número de ortólogos presentes en cada uno de los genes (fig.1) con la finalidad de seleccionar aquellos genes que son de copia unica y que tienen el mayor número de ortólogos. La mayor parte de los genes corresponden a la familia de las cinasas mientras que el único gen con la categoria de "Stricly" pertenece a la familia de proteinas de las Pentatricopeptide y se localiza en la mitocondria.
 
+![Genes Ortólogos](https://github.com/Ofeabi/ProyectoFinalBioinf2017-II/blob/master/GraphSCNG.png "Genes Ortológos")
+
+
+
 
 
 **Analises and Conclusion** 
